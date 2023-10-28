@@ -11,6 +11,11 @@ def is_prime(n):
     Returns:
     bool: True if n is prime, False otherwise.
 
+    Example:
+    >>> is_prime(5)
+    True
+    >>> is_prime(4)
+    False
     """
     if n <= 1:
         return False
