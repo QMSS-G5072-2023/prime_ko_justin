@@ -1,6 +1,6 @@
 # prime_jk3938
 
-Starting to build my own Python package.
+A Python package that tests prime numbers
 
 ## Installation
 
