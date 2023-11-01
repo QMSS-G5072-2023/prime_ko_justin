@@ -1,7 +1,7 @@
 # Contents of test_prime.py
 
 import sys
-sys.path.append("/Users/justin/Desktop/prime_ko_justin/prime_jk3938")
+sys.path.append("/Users/justin/Desktop/prime_ko_justin")
 
 from src.prime_jk3938.prime_jk3938 import is_prime
 
