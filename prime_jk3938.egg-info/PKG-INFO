@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: prime-jk3938
+Version: 0.1.0
+Summary: A Python package that tests prime numbers
+Home-page: https://https://github.com/QMSS-G5072-2023/prime_ko_justin/tree/main/prime_jk3938
+Author: Justin Ko
+Author-email: jk3938@columbia.edu
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+License-File: LICENSE
